@@ -17,7 +17,7 @@
 
 ## Hi, I'm Kim :raised_hand_with_fingers_splayed:
 <p align="center">
- <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/c0e980f33a38a49d66ea71d5361ac5041ffb68b8/assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="icon/github-snake.svg" alt="snake"/>
 </p>
 
 ---
