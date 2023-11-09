@@ -46,14 +46,17 @@
 
 ## Технологии и Инструменты
 <div align="center">  
-<img style="margin: 10px" src="html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> 
+<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50" /> 
+<img style="margin: 10px" src="icons/java.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="icons/mySQL.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="icons/postgreSQL.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="icons/git.svg" alt="GIT" height="50" />
+<img style="margin: 10px" src="icons/JS.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="icons/docker.svg" alt="Docker" height="50" /> 
+<img style="margin: 10px" src="icons/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="icons/maven-opened-svgrepo-com.svg" alt="MAVEN" height="50" />
+<img style="margin: 10px" src="icons/postman-icon-svgrepo-com.svg" alt="Postman" height="50" />  
+<img style="margin: 10px" src="icons/tomcat-svgrepo-com.svg" alt="TomCat" height="50" /> 
 </div>  
 
 <br/>  
